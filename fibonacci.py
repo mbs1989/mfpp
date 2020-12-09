@@ -1,6 +1,7 @@
 # Program to display the Fibonacci sequence up to n-th term
 """
-Ceci est ma premiere doc: Program to display the Fibonacci sequence up to n-th term
+Ceci est ma premiere doc: Program to display the Fibonacci sequence up to n-th
+this isit
 """
 nterms = int(input("How many terms? "))
 
