@@ -1,1 +1,0 @@
-print("Le python c'est la vie ")
