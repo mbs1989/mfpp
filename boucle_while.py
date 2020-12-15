@@ -8,6 +8,5 @@ while i < 100:
     else:
         print("ceci est un nombre impair")
     i += 1
-    break
 else:
     print("le chiffre est trop grand")
