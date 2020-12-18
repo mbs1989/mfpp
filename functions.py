@@ -4,3 +4,11 @@
 def division(a,b):
     x = a/b
     return(x)
+
+# b = 13
+# a = 1
+
+def somme(b=5,a=12):
+    print(a,b)
+    x = a+b
+    return x
