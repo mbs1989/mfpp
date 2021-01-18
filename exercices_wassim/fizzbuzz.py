@@ -1,4 +1,5 @@
-# Afficher chiffres de 1 à 50. Si le chiffre est multiple de 3, le système doit afficher fizz.
+# Afficher chiffres de 1 à 50. Si le chiffre est multiple de 3, le système doit afficher
+# fizz.
 # Si le chiffre est multiple de 5, afficher buzz.
 # Si le chiffre est multiple de 3 et de 5 afficher fizzbuzz
 

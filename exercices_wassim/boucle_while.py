@@ -1,6 +1,6 @@
 # Pour tous les chiffres allant jusqu'à 100, afficher les nombres pairs
 
-i = 200
+i = 1
 
 while i < 100:
     if i%2 == 0:

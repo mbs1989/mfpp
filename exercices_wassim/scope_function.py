@@ -1,4 +1,4 @@
-from functions import somme
+from exercices_wassim.functions import somme
 
 
 
