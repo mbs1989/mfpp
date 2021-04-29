@@ -9,5 +9,5 @@ ma_marque = "mercedes"
 ma_marque2 = "bmw"
 mercedes = Voiture(ma_marque)
 bmw = Voiture(ma_marque2)
-print(mercedes.marque)
+print(voiture.marque)
 print(bmw.marque)
