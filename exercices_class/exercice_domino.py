@@ -22,8 +22,10 @@ domino.affiche_points()
 domino.change_face()
 domino.totale()
 
-"""d = Domino(4, 6)
+"""
+d = Domino(4, 6)
 d.affiche_points()
 face A: 4, face B: 6
 x = d.totale()
-print(x)"""
+print(x)
+"""

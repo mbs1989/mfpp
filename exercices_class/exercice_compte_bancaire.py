@@ -30,4 +30,5 @@ Le solde du compte de Jean est 800 euros.
 >>> compte2 = CompteBancaire(’Marc’)
 >>> compte2.depot(500)
 >>> compte2.affiche()
-Le solde du compte de Marc est 500 euros."""
+Le solde du compte de Marc est 500 euros.
+"""
