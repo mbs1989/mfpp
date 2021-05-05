@@ -9,7 +9,7 @@ Define property that should have the same value for every class instance
 """
 
 class Vehicle:
-    color = "White"
+    color = "white"
     def __init__(self, max, mile, name):
         self.max_speed = max
         self.mileage = mile
@@ -23,8 +23,9 @@ class Bus(Vehicle):
     def seating_capacity(self, capacity=50):
         return super().seating_capacity(capacity=50)
 
-volvo = Vehicle(200,150, "Volvo")
+volvo = Vehicle(200,150, "volvo")
 print(volvo.max_speed)
-school_bus = Bus(180,12,"School Volvo")
+school_bus = Bus(180,12,"school volvo")
 print(school_bus.max_speed, school_bus.mileage, school_bus.name)
 print(school_bus.seating_capacity())
+print("the color of the bus is", school_bus.color)
